@@ -1,0 +1,23 @@
+Castle[] = {
+	{Loot_GROUP,		1,		toolsKnife},
+	{Loot_WEAPON,		1,		ItemMap},
+	{Loot_WEAPON,		1,		ItemCompass},
+	{Loot_WEAPON,		2,		ItemFlashlight},
+	{Loot_WEAPON,		1,		ItemPickaxe},
+	{Loot_GROUP,		3,		toolsMatchbox},
+	{Loot_WEAPON,		2,		ItemShovel},
+	{Loot_WEAPON,		1,		ItemHatchet},
+	{Loot_WEAPON,		2,		Mosin_DZ},
+	{Loot_MAGAZINE,		1,		equip_Crossbow_Kit},
+	//{Loot_MAGAZINE,		3,		equip_rope},
+	{Loot_MAGAZINE,		4,		PartWoodPile},
+	{Loot_MAGAZINE,		1,		ItemComboLock},
+	{Loot_MAGAZINE,		1,		ItemTent},
+	{Loot_MAGAZINE,		1,		forest_net_kit},
+	{Loot_GROUP,		5,		AmmoCivilian},
+	{Loot_GROUP,		3,		Trash},
+	{Loot_GROUP,		2,		AttachmentsGeneric},
+	{Loot_GROUP,		5,		Generic},
+	{Loot_GROUP,		8,		Consumable},
+	{Loot_GROUP,		4,		backpacksCivil}	
+};

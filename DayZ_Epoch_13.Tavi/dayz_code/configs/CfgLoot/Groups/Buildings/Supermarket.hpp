@@ -1,0 +1,42 @@
+Supermarket[] = {
+	{Loot_WEAPON,		5,		ItemWatch},
+	{Loot_WEAPON,		1,		ItemCompass},
+	{Loot_WEAPON,		6,		ItemMap},
+	{Loot_WEAPON,		5,		ItemFlashlight},
+	{Loot_GROUP,		2,		toolsKnife},
+	{Loot_WEAPON,		3,		Binocular},
+	{Loot_GROUP,		10,		pistols},
+	{Loot_GROUP,		5,		shotgunsingleshot},
+	{Loot_GROUP,		5,		backpacks},
+	{Loot_MAGAZINE,		1,		ItemMixOil},
+	{Loot_MAGAZINE,		0.5,	ItemComboLock},
+	{Loot_MAGAZINE,		3,		ItemBandage},
+	{Loot_MAGAZINE,		2,		ItemPainkiller},
+	//{Loot_MAGAZINE,		2,		ItemAntibacterialWipe},
+	//{Loot_MAGAZINE,		5,		equip_nails},
+	{Loot_GROUP,		40,		Consumable},
+	{Loot_GROUP,		20,		Generic},
+	{Loot_GROUP,		10,		AmmoCivilian},
+	{Loot_GROUP,		3,		tents},
+	{Loot_GROUP,		3,		toolsMatchbox},
+	{Loot_GROUP,		10,		Trash}
+};
+
+SupermarketSmall[] = {
+	{Loot_WEAPON,		5,		ItemWatch},
+	{Loot_WEAPON,		1,		ItemCompass},
+	{Loot_WEAPON,		6,		ItemMap},
+	{Loot_GROUP,		2,		toolsKnife},
+	{Loot_WEAPON,		3,		Binocular},
+	{Loot_MAGAZINE,		1,		ItemMixOil},
+	{Loot_MAGAZINE,		0.5,	ItemComboLock},
+	{Loot_MAGAZINE,		3,		ItemBandage},
+	{Loot_MAGAZINE,		2,		ItemPainkiller},
+	//{Loot_MAGAZINE,		2,		ItemAntibacterialWipe},
+	{Loot_MAGAZINE,		5,		equip_nails},
+	{Loot_GROUP,		40,		Consumable},
+	{Loot_GROUP,		20,		GenericSmall},
+	{Loot_GROUP,		10,		AmmoCivilian},
+	{Loot_GROUP,		3,		toolsMatchbox},
+	{Loot_GROUP,		10,		Trash}
+};
